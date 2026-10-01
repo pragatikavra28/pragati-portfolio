@@ -1,7 +1,8 @@
 # Portfolio (Next.js)
 
-#LIVE LINK DEMO 
-pragati-portfolio-steel.vercel.app
+<a href="https://pragati-portfolio-steel.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 A single-page developer portfolio: hero, bento intro, projects, achievements, experience, approach and contact.
 
