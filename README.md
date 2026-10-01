@@ -1,5 +1,8 @@
 # Portfolio (Next.js)
 
+#LIVE LINK DEMO 
+pragati-portfolio-steel.vercel.app
+
 A single-page developer portfolio: hero, bento intro, projects, achievements, experience, approach and contact.
 
 ## Run locally
@@ -16,5 +19,4 @@ To use a real photo, put it in `public/` and swap the `.avatar` div in `app/page
 ## Deploy
 Push to GitHub, then import the repo on Vercel or Netlify (framework: Next.js, no extra settings).
 
-## Photo
-Save your photo as `public/profile.jpg` (square, at least 400px). If it's missing, the site shows your initials instead.
+
