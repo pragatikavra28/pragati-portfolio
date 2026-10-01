@@ -1,0 +1,364 @@
+{
+  "name": "Pragati Kavra",
+  "roles": [
+    "Full Stack Developer",
+    "Java Developer",
+    "MERN Stack Builder",
+    "DSA Problem Solver"
+  ],
+  "location": "Kasganj, Uttar Pradesh, India",
+  "email": "pragati.kavra_cs23@gla.ac.in",
+  "summary": "B.Tech CSE student (expected 2027) with a strong base in data structures, algorithms, OOP, operating systems and computer networks. I build full-stack, multi-tier web apps and REST APIs, and use generative AI tools to ship faster.",
+  "links": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/pragatikavra28"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/your-linkedin"
+    },
+    {
+      "label": "LeetCode",
+      "href": "https://leetcode.com/your-leetcode"
+    }
+  ],
+  "stats": [
+    {
+      "value": "250+",
+      "label": "DSA problems solved"
+    },
+    {
+      "value": "3★",
+      "label": "HackerRank rating"
+    },
+    {
+      "value": "40+",
+      "label": "Certifications"
+    },
+    {
+      "value": "2",
+      "label": "Deployed full-stack apps"
+    }
+  ],
+  "skills": [
+    {
+      "group": "Languages",
+      "items": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL"
+      ]
+    },
+    {
+      "group": "Core CS",
+      "items": [
+        "OOP",
+        "Data Structures & Algorithms",
+        "Complexity Analysis",
+        "Operating Systems",
+        "Computer Networks",
+        "DBMS"
+      ]
+    },
+    {
+      "group": "Frontend",
+      "items": [
+        "HTML",
+        "CSS",
+        "React.js",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "group": "Backend & APIs",
+      "items": [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "JWT Auth",
+        "Client-Server Architecture"
+      ]
+    },
+    {
+      "group": "Databases",
+      "items": [
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "group": "Tools",
+      "items": [
+        "Git",
+        "GitHub",
+        "Postman"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Prepzo AI: AI-Powered Interview Preparation",
+      "points": [
+        "Analyzes resumes against job descriptions to generate personalized interview strategies.",
+        "Built LLM pipelines for resume analysis, match scoring and interview question generation.",
+        "Implemented JWT authentication, guest access and a responsive React dashboard.",
+        "Deployed the MERN app on Vercel and Render with MongoDB Atlas."
+      ],
+      "tech": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JWT",
+        "LLMs",
+        "Vercel",
+        "Render"
+      ],
+      "live": "https://prepzo-ai-frontend.vercel.app",
+      "code": "https://github.com/pragatikavra28/prepzo-ai"
+    },
+    {
+      "title": "The Last Minute App: Full-Stack Booking Platform",
+      "points": [
+        "Microservices-based booking platform (auth, listings, bookings, payments) with JWT and a responsive React frontend.",
+        "Prevented double bookings using PostgreSQL row locking, transactions and idempotent requests, with Redis for caching and sessions."
+      ],
+      "tech": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "Redis",
+        "Docker"
+      ],
+      "live": "https://lastminute-app-frontend.onrender.com",
+      "code": "https://github.com/pragatikavra28/TheLastMinuteApp"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Java Developer Intern, CodSoft (Remote)",
+      "when": "2025",
+      "points": [
+        "Designed and built Java applications using OOP principles, data structures and algorithmic problem solving.",
+        "Strengthened core Java through hands-on application logic, debugging and coding challenges under agile timelines."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "B.Tech in Computer Science & Engineering",
+      "where": "GLA University, Mathura",
+      "when": "Expected Aug 2027",
+      "note": "CGPA 7.44/10. DSA, OOP, OS, DBMS, Computer Networks"
+    },
+    {
+      "title": "Intermediate",
+      "where": "J.P. Public Academy, Kasganj",
+      "when": "2023",
+      "note": "65.8%"
+    },
+    {
+      "title": "High School",
+      "where": "J.P. Public Academy, Kasganj",
+      "when": "2021",
+      "note": "69%"
+    }
+  ],
+  "leadership": [
+    {
+      "title": "Campus Ambassador, GSSoC'25",
+      "where": "GirlScript Summer of Code 2025",
+      "desc": "Represented GSSoC'25 on campus and encouraged students to contribute to open source."
+    },
+    {
+      "title": "Social Media Head, Prakriti Club",
+      "where": "GLA University",
+      "desc": "Presented regular technical project updates to club leadership and peers."
+    },
+    {
+      "title": "Technical Associate, Literario Club",
+      "where": "GLA University",
+      "desc": "Helped organize technical workshops and university events."
+    }
+  ],
+  "photo": "/profile.jpg",
+  "certGroups": [
+    {
+      "group": "Featured",
+      "items": [
+        {
+          "t": "Meta Front-End Developer",
+          "by": "Meta (Coursera)",
+          "when": "Aug 2025"
+        },
+        {
+          "t": "Oracle Certified Generative AI Professional",
+          "by": "Oracle"
+        },
+        {
+          "t": "Software Engineer Intern",
+          "by": "HackerRank",
+          "when": "May 2025"
+        },
+        {
+          "t": "Software Engineering (Elite)",
+          "by": "NPTEL, IIT",
+          "when": "Oct 2024"
+        },
+        {
+          "t": "Career Essentials in Generative AI",
+          "by": "Microsoft and LinkedIn",
+          "when": "Jul 2024"
+        }
+      ]
+    },
+    {
+      "group": "Job simulations",
+      "items": [
+        {
+          "t": "Deloitte Australia: Technology",
+          "by": "Forage",
+          "when": "Jun 2025"
+        },
+        {
+          "t": "Deloitte Australia: Data Analytics",
+          "by": "Forage",
+          "when": "Jun 2025"
+        },
+        {
+          "t": "Deloitte Australia: Cyber",
+          "by": "Forage",
+          "when": "Jun 2025"
+        },
+        {
+          "t": "Accenture Australia: Technology Consulting",
+          "by": "Forage",
+          "when": "Jun 2025"
+        },
+        {
+          "t": "Mastercard: Cybersecurity",
+          "by": "Forage",
+          "when": "Jun 2025"
+        },
+        {
+          "t": "Excel Skills",
+          "by": "JPMorganChase",
+          "when": "Jul 2024"
+        }
+      ]
+    },
+    {
+      "group": "Programming and cloud",
+      "items": [
+        {
+          "t": "Java (Basic)",
+          "by": "HackerRank",
+          "when": "Jul 2024"
+        },
+        {
+          "t": "Python (Basic)",
+          "by": "HackerRank",
+          "when": "Oct 2024"
+        },
+        {
+          "t": "MySQL (Basic)",
+          "by": "HackerRank",
+          "when": "Oct 2024"
+        },
+        {
+          "t": "Basics of Python",
+          "by": "Infosys Springboard",
+          "when": "Jan 2024"
+        },
+        {
+          "t": "The Fledgling",
+          "by": "Infosys",
+          "when": "Apr 2024"
+        },
+        {
+          "t": "Google Workspace",
+          "by": "Infosys Springboard"
+        },
+        {
+          "t": "Computer vision app with Azure Cognitive Services",
+          "by": "Microsoft",
+          "when": "Jun 2025"
+        },
+        {
+          "t": "Concepts of Cryptography",
+          "by": "Microsoft",
+          "when": "Jul 2024"
+        }
+      ]
+    },
+    {
+      "group": "Web and tools",
+      "items": [
+        {
+          "t": "HTML and CSS Bootcamp",
+          "by": "LetsUpgrade",
+          "when": "Jul 2024"
+        },
+        {
+          "t": "Git and GitHub Bootcamp",
+          "by": "LetsUpgrade",
+          "when": "Jul 2024"
+        },
+        {
+          "t": "ChatGPT",
+          "by": "LetsUpgrade",
+          "when": "Jul 2024"
+        },
+        {
+          "t": "Build a Website with WordPress",
+          "by": "Coursera",
+          "when": "Jul 2024"
+        },
+        {
+          "t": "Google Ads for Beginners",
+          "by": "Coursera",
+          "when": "Jul 2024"
+        }
+      ]
+    },
+    {
+      "group": "MongoDB learning badges (Jul 2024)",
+      "items": [
+        "Introduction to MongoDB",
+        "MongoDB and the Document Model",
+        "Getting Started with Atlas",
+        "Connecting to a Database",
+        "CRUD: Insert and Find",
+        "CRUD: Modifying Query Results",
+        "CRUD: Replace and Delete",
+        "Indexes",
+        "Aggregation",
+        "Data Modeling Intro",
+        "Transactions",
+        "Atlas Search"
+      ]
+    },
+    {
+      "group": "AI courses (LinkedIn, Jul 2024)",
+      "items": [
+        "What Is Generative AI?",
+        "Introduction to Artificial Intelligence",
+        "Ethics in the Age of Generative AI",
+        "Generative AI: Evolution of Thoughtful Online Search",
+        "What is Copilot?",
+        "Learning Microsoft 365 Copilot",
+        "Streamlining Your Work with Copilot"
+      ]
+    },
+    {
+      "group": "Professional skills (TCS iON, Jan 2024)",
+      "items": [
+        "Interview Skills",
+        "Communication Skills"
+      ]
+    }
+  ]
+}
