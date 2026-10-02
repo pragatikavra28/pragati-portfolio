@@ -20,7 +20,7 @@
     },
     {
       "label": "HackerRank",
-      "href": " https://www.hackerrank.com/profile/_2315001610"
+      "href": "https://www.hackerrank.com/profile/_2315001610"
     },
     {
       "label": "LeetCode",
@@ -139,44 +139,42 @@
       ],
       "live": "https://lastminute-app-frontend.onrender.com",
       "code": "https://github.com/pragatikavra28/TheLastMinuteApp"
+    },
+    {
+      "title": "LearnOS: Online Learning Management System (Group Project)",
+      "points": [
+        "Full-stack LMS for students, instructors, and admins with JWT authentication, role-based access control, course management, and progress tracking.",
+        "Implemented real-time notifications, file uploads, dashboards, and analytics using Socket.io, MongoDB, and REST APIs."
+      ],
+      "tech": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "Socket.io"
+      ],
+      "live": "https://learnos.vercel.app",
+      "code": "https://github.com/pragatikavra28/LearnOS"
+    },
+    {
+      "title": "Employee Payroll System (Group Project)",
+      "points": [
+        "Developed a web-based payroll management system to manage employee records, salary details, and payroll operations.",
+        "Built dynamic server-rendered pages and REST APIs using EJS, Node.js, and Express.js with structured data handling and responsive interfaces."
+      ],
+      "tech": [
+        "Node.js",
+        "Express.js",
+        "EJS",
+        "HTML",
+        "CSS",
+        "REST API"
+      ],
+      "live": "",
+      "code": "https://github.com/pragatikavra28/Employee-payroll-system"
     }
   ],
-  {
-"title": "LearnOS: Online Learning Management System (Group Project)",
-"points": [
-"Full-stack LMS for students, instructors, and admins with JWT authentication, role-based access control, course management, and progress tracking.",
-"Implemented real-time notifications, file uploads, dashboards, and analytics using Socket.io, MongoDB, and REST APIs."
-],
-"tech": [
-"React.js",
-"Node.js",
-"Express.js",
-"MongoDB",
-"Tailwind CSS",
-"Socket.io"
-],
-"live": "https://learnos.vercel.app",
-"code": "https://github.com/pragatikavra28/LearnOS"
-},
-
-{
-"title": "Employee Payroll System (Group Project)",
-"points": [
-"Developed a web-based payroll management system to manage employee records, salary details, and payroll operations.",
-"Built dynamic server-rendered pages and REST APIs using EJS, Node.js, and Express.js with structured data handling and responsive interfaces."
-],
-"tech": [
-"Node.js",
-"Express.js",
-"EJS",
-"HTML",
-"CSS",
-"REST API"
-],
-"live": "",
-"code": "https://github.com/pragatikavra28/Employee-payroll-system"
-}
-],
   "experience": [
     {
       "title": "Java Developer Intern, CodSoft (Remote)",
